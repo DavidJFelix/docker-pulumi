@@ -1,6 +1,6 @@
 FROM python:3.7-slim
 
-LABEL "com.github.actions.name"="Pulumi"
+LABEL "com.github.actions.name"="DJF/Pulumi Slim"
 LABEL "com.github.actions.description"="Deploy apps and infra to your favorite cloud!"
 LABEL "com.github.actions.icon"="cloud-lightning"
 LABEL "com.github.actions.color"="purple"
